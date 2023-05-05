@@ -9,6 +9,12 @@ ${execpi 3600 python /path/to/moon_phase.py}
 
 This will display the current moon phase, along with the previous and next major phases, their dates and times, in a `Conky` widget that updates every hour (3600 seconds). You can customize the font sizes and other formatting options to your liking. Just make sure to replace `/path/to/moon_phase.py` with the actual path to the Python script on your system.
 
+### See also
+#### [.conkyrc](https://github.com/apple-fritter/conky.conkyrc): conky configuration file.
+#### [RTSP-view.py](https://github.com/apple-fritter/conky.RTSP-view.py): Script that displays an RTSP stream. Python.
+#### [tide.py](https://github.com/apple-fritter/conky.tide.py): Script that displays the local tide using the Tidal API. Python.
+#### [twitter.py](https://github.com/apple-fritter/conky.twitter.py): Script that displays a user's Twitter notifications. Python.
+
 ## [Disclaimer](DISCLAIMER)
 **This software is provided "as is" and without warranty of any kind**, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
