@@ -1,4 +1,4 @@
-# conky-moonphase
+# moonphase.py
 This script uses the `lunarcalendar` and `pytz` libraries to calculate the moon phase and the current time in your local timezone, respectively.
 
 To use this script in Conky, you can add the following lines to your Conky configuration file:
