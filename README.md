@@ -11,6 +11,15 @@ This will display the current moon phase, along with the previous and next major
 
 ---
 
+## Example Output
+```
+🌓
+Prev: First Quarter Jun 03, 2023 at 06:24 AM
+Next: Full Moon Jun 10, 2023 at 05:46 PM
+```
+
+---
+
 ## 🤪 Conky Meta
 
 - [888v](https://github.com/apple-fritter/888v): Virtual webcam clone with Conky overlay; Bash.
